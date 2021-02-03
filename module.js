@@ -19,3 +19,5 @@ for(i=0; i<52; i++){
 imageHtml.addEventListener("click", function(){
   imageHtml.src = nomCarte.url;
 });
+
+export()
